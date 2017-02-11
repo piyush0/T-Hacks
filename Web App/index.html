@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<script src="jquery.js">
+	  </script>
+		<script>
+function move() {
+	for(i = 0; i < 500000000; i++)
+	{
+
+	}
+  var elem = document.getElementById("myBar");
+  var width = 10;
+  var id = setInterval(frame,10);
+  function frame() {
+    if (width >= 94) {
+      clearInterval(id);
+    } else {
+      width=width+1;
+      elem.style.width = width + '%';
+      document.getElementById("label").innerHTML = width * 1  + '%';
+    }
+  }
+}
+</script>
+
+	<style>
+
+	#myProgress {
+	  width: 90%;
+	  height: 30px;
+	  background-color: #ddd;
+		margin-left: 60px;
+		margin-right: 10px;
+	}
+
+	#myBar {
+	  width: 0%;
+	  height: 100%;
+	  background-color: #4CAF50;
+	}
+
+	#label {
+	  text-align: center;
+	  line-height: 30px;
+	  color: black;
+	}
+
+.button_upload {
+border-radius: 4px;
+background-color: #E0E0E0;
+border: none;
+color: #FFFFFF;
+text-align: center;
+font-size: 12px;
+padding left: 5px;
+padding-right: 10px;
+width: 150px;
+transition: all 0.5s;
+cursor: pointer;
+}
+
+.button_upload span {
+cursor: pointer;
+display: inline-block;
+position: relative;
+transition: 0.5s;
+}
+
+.button_upload span:after {
+content: '\00bb';
+position: absolute;
+opacity: 0;
+top: 0;
+right: -20px;
+transition: 0.5s;
+}
+
+.button_upload:hover span {
+padding-right: 20px;
+}
+
+.button_upload:hover span:after {
+opacity: 1;
+right: 0;
+}
+</style>
+		<title>Hackathon</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>LOGOS</h1>
+					<p>Powered by <b>DIRO LABS</b>.</a></p>
+				</div>
+			</header>
+
+		<!-- Wrapper -->
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="icon fa-diamond major"></span><br>
+						<div name="photo" id="imageUploadForm">
+								<input type="file" name="logo"/><br><br><br>
+								<button onclick="move()" class="button_upload"><span>UPLOAD</span></button>
+						</div>
+						<br><br>
+											<div id="myProgress">
+						  <div id="myBar">
+						    <div id="label"><a>Waiting_for_the_upload</a></div>
+						  </div>
+						</div>
+					</section>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+
+					</footer>
+
+
+
+		<!-- Scripts -->
+
+	  <script src="letsdoit.js">
+	  </script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
