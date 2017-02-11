@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_8f7c17667c865af2a7416f08df5806ce2cad1be4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_3ed62d8bd270bc7de08b053f1816c668c0fbb81e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_e87872368884571e5505824cf064cf1bd3cf2f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_388987200123da56a379aac9a6b8c8642a2c6958/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_6b22faa91768ce3953af389c75de99e0608e29c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.github.eralpyucel/CircleProgressView/v1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9bd269ff9b6004238cadb51233559f829c30905e">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.eralpyucel-CircleProgressView-v1.1_b994a1c65829ccbb343f7ae6c8b11f34ac8f3188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_02d3b97580b910d5f110d3a5e681b79b6f4bd05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_28c097a9144e97c307f4f0307f0ffc6785fb6a3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_b550dc0a17d8ba59a49eb75a59a05f58fe9fd43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.1.1_dcac66de5d43bd828cfa1834e423d7778c675637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_86938737cec381c5a3f039257af6b99ecd8c1fac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7bfd588ca9c2108bb4ae910c66288dd9a86dc6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ViksaaSkool-AwesomeSplash-v1.0.0_8b359198fc4f5900ac8070e3e90b0e850426fafb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1/androidannotations-api-3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-3.2_d32372f30cc3714446bb059d4eed5f891129397d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_2dd78be2940ee04add2a87247ea2fdbc9272e7f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.easing-library-1.0.1_97414854f575e24d42c90e3e649dd37325b203ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_59f1f06bcc3e8fd4ed650526a711b2cfd73f6797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48f1133b9604a94c8051a7985ce01ca246c50394">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b26dbac8b24a283b58b747f4e4bfe5e5e0c61a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_d7950e402db291fe274c914e44b0b599dd0ff7a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5291f79c2ee6de42fa525f522293e3cda4334f26">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f0c3da80c5cba7b428a98d54bd5d1f3320ee67a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.androidanimations-library-1.1.3_bf3333a99956605fb75ec5e99a9ce9d00a3b78da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jorgecastilloprz-fillableloaders-1.02_c36d36ebaefac40cb9bb9ac68e5201e303186ef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.iarcuschin/simpleratingbar/0.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="16caf9da5d06cd754ed22a53a9c1ef2a7e4713b1">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.iarcuschin-simpleratingbar-0.1.3_b6db0c1a61f045da4336b1fd5dbd0fba96adabfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_beaec291cb653384e05d286cd704738176b7f08b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_96b0533bab940fb41938fa0b30224cc78a68e23d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_cdf63cdb2b48d34f3caf84fe1464a813138aba3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/me.itangqi.waveloadingview/library/0.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73330c12b1b299c298e047887a8a4f2ad41f674b">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.itangqi.waveloadingview-library-0.3.2_c91ed7f8df03759e4309323897daacee40368061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_9b53b433010b441df37ab3c630db19078179984b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_234f9d5251d6fc9d95b23435441c8acd4a418cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/Documents/Beagos/app/build/intermediates/exploded-aar/com.github.anastr/speedviewlib/1.1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aefc7727c5cba7653d0b0623b068f3577a535e9b">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.anastr-speedviewlib-1.1.2_80e4b82af74298a1a6657d57c54d76e020eaf061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_6671f5d56690ffa13358c5696992eb1781eb7ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/piyush0/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/piyush0/Documents/Beagos/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_81b60a76078dd88c63aaa7db5c0a77b69095534f/classes.dex" />
+    </item>
+
+</items>
